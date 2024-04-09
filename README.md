@@ -1,2 +1,2 @@
-# FirstFullStackApplication
-Full Stack Development with Java Spring Boot, React, and MongoDB 
+# Movie Application
+Back-End Development with Java Spring Boot and MongoDB 
